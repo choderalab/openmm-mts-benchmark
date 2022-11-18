@@ -9,6 +9,9 @@ conda create -n mts openmm openmmtools rich
 
 ## Benchmark
 ```python
-python benchmark-mts.py
+python benchmark-mts-villin.py
 ```
 
+## Results
+Results for the initial Src kinase found in `benchmark-srcExplicit.csv`
+Results for Villin benchmarking found in `benchmark-villin.csv`
